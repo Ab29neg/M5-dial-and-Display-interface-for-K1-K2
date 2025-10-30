@@ -1,4 +1,4 @@
-# M5 Dial and Display for K1 & K2
+# M5 Dial, Display and interface for K1 & K2
 
 This document provides an overview of the **M5 Dial** and **Display** and **interface** code used for the **K1** and **K2** vehicles in the powertrain integration project.
 
